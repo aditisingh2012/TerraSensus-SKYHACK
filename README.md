@@ -85,7 +85,7 @@ Early intervention reduces emergency response costs by 85%, from $1,200 to $200 
 ### Quick Start
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/terrasensus.git
+   git clone https://github.com/aditi/terrasensus.git
    cd terrasensus
    \`\`\`
 
@@ -205,8 +205,8 @@ This is our SkyHackathon submission. The system demonstrates:
 ## 📞 Contact
 **Aditi Singh**  
 SkyHackathon Participant  
-[Your Email]  
-[Your GitHub Profile]
+[aditisng1212@gmail.com]  
+[aditisingh2012]
 
 ---
 
