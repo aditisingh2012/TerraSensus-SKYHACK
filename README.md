@@ -206,7 +206,7 @@ This is our SkyHackathon submission. The system demonstrates:
 **Aditi Singh**  
 SkyHackathon Participant  
 [aditisng1212@gmail.com]  
-[aditisingh2012]
+[https://github.com/aditisingh2012/aditisingh2012]
 
 ---
 
